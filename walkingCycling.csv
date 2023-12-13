@@ -1,4 +1,4 @@
-LA code,Local Authority,Year,Y,Frequency,Walking_%,Cycling_%,,
+LA code,Local Authority,Year,YearStart,Frequency,Walking_%,Cycling_%,,
 E09000001,City of London,2010/11,2010,1x per month,78,30,,
 E09000002,Barking and Dagenham,2010/11,2010,1x per month,60,8,,1x per month
 E09000003,Barnet,2010/11,2010,1x per month,65,10,,1x per week
